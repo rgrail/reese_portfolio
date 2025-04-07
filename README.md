@@ -18,7 +18,7 @@ Each project includes:
 
 ## 📂 Projects
 
-### 🔹 LA Crime Data Analysis (Master's Capstone/Thesis)
+### 🔹 LA Crime Data Analysis 
 A comprehensive analytics project focused on crime data in Los Angeles.  
 **Key highlights:**
 - Full ETL pipeline: data extraction, cleaning, and transformation
