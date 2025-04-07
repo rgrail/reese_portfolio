@@ -1,6 +1,4 @@
-Reese's analytics portfolio
-
-# 📊 Personal Analytics Portfolio
+# 📊 Reese's Analytics Portfolio
 
 Welcome to my personal analytics portfolio! This repository showcases a collection of projects where I explore both **personal** and **business-related problems** using data.
 
