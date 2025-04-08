@@ -18,10 +18,9 @@ Each project includes:
 
 ## 📂 Projects
 
-### 🔹 LA Crime Data Analysis 
+### 🔹 LA Crime Data Analysis (https://github.com/rgrail/the_fight_against_crime_LA)
 A comprehensive analytics project focused on crime data in Los Angeles.  
 **Key highlights:**
-- Full ETL pipeline: data extraction, cleaning, and transformation
 - Exploratory and statistical analysis of crime trends and patterns
 - Forecasting future crime incidents using time series models
 - Key insights and recommendations for stakeholders
