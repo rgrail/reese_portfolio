@@ -6,9 +6,9 @@ Welcome to my personal analytics portfolio! This repository showcases a collecti
 
 This portfolio highlights my passion for solving real-world problems through data. It includes:
 
-- 📈 Business analytics projects involving data cleaning, analysis, and visualization
-- 🧠 Personal interest projects inspired by daily life and curiosity
-- 🛠 Tools used: Python, SQL, Excel, Tableau, Power BI, Github, and more
+- Business analytics projects involving data cleaning, analysis, and visualization
+- Personal interest projects inspired by daily life and curiosity
+- Tools used: Python, SQL, Excel, Tableau, Power BI, Github, and more
 
 Each project includes:
 - A clear problem statement
@@ -18,16 +18,21 @@ Each project includes:
 
 ## 📂 Projects
 
-### 🔹 LA Crime Data Analysis (https://github.com/rgrail/the_fight_against_crime_LA)
-A comprehensive analytics project focused on crime data in Los Angeles.  
+### 🔹 [LA Crime EDA and Predictive modeling analysis](https://rgrail.github.io/the_fight_against_crime_LA/)
+An  analytics project focused on crime data in Los Angeles.  
 **Key highlights:**
 - Exploratory and statistical analysis of crime trends and patterns
 - Forecasting future crime incidents using time series models
 - Key insights and recommendations for stakeholders
 
-*(More projects to be added soon!)*
+*(More projects coming soon!)*
 
 A few of my passions include Soccer, Video Games, and Reading. So expect a project related to any one of those coming next!
+
+#### Future ideas
+
+- Soccer injury analysis
+- Cosmere book series mind map
 
 ## 💡 Purpose
 
