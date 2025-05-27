@@ -19,12 +19,21 @@ Each project includes:
 ## 📂 Projects
 
 ### 🔹 [LA Crime EDA and Predictive modeling analysis](https://rgrail.github.io/the_fight_against_crime_LA/)
-An  analytics project focused on crime data in Los Angeles.  
+An analytic project focused on crime data in Los Angeles.  
 **Key highlights:**
 - Exploratory and statistical analysis of crime trends and patterns
 - Forecasting future crime incidents using time series models
 - Key insights and recommendations for stakeholders
 
+<br>
+
+### 🔹 [Adult Demographic Data EDA](https://github.com/rgrail/demo_data_analysis)
+A short test project in Python going over standard EDA practices and testing my knowledge on Python syntax, structures, and logic.
+
+
+<br>
+<br>
+<br>
 *(More projects coming soon!)*
 
 A few of my passions include Soccer, Video Games, and Reading. So expect a project related to any one of those coming next!
