@@ -25,7 +25,7 @@ A MindMap visualisation project being done on the popular fantasy book series "S
 
 <br> 
 
-###  [LA Crime EDA and Predictive modeling analysis](https://rgrail.github.io/the_fight_against_crime_LA/)
+###  [LA Crime EDA and Predictive modeling analysis](https://github.com/rgrail/the_fight_against_crime_LA)
 An analytic project focused on crime data in Los Angeles.  
 **Key highlights:**
 - Exploratory and statistical analysis of crime trends and patterns
