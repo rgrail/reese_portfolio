@@ -1,8 +1,8 @@
-# 📊 Reese's Analytics Portfolio
+#  Reese's Analytics Portfolio
 
 Welcome to my personal analytics portfolio! This repository showcases a collection of projects where I explore both **personal** and **business-related problems** using data.
 
-## 🔍 About
+##  About
 
 This portfolio highlights my passion for solving real-world problems through data. It includes:
 
@@ -16,9 +16,16 @@ Each project includes:
 - Insights and takeaways
 - Visuals and/or dashboards where applicable
 
-## 📂 Projects
+##  Projects
 
-### 🔹 [LA Crime EDA and Predictive modeling analysis](https://rgrail.github.io/the_fight_against_crime_LA/)
+### [CosmereMindMap](https://github.com/rgrail/CosmereMindMap)
+*Ongoing project!*
+
+A MindMap visualisation project being done on the popular fantasy book series "Stormlight Archive" written by Brandon Sanderson. The end goal of this visual is to see which characters are seen the most in the series, as well as which characters interacted with eachother the most as well. 
+
+<br> 
+
+###  [LA Crime EDA and Predictive modeling analysis](https://rgrail.github.io/the_fight_against_crime_LA/)
 An analytic project focused on crime data in Los Angeles.  
 **Key highlights:**
 - Exploratory and statistical analysis of crime trends and patterns
@@ -27,14 +34,13 @@ An analytic project focused on crime data in Los Angeles.
 
 <br>
 
-### 🔹 [Adult Demographic Data EDA](https://github.com/rgrail/demo_data_analysis)
+###  [Adult Demographic Data EDA](https://github.com/rgrail/demo_data_analysis)
 A short test project in Python going over standard EDA practices and testing my knowledge on Python syntax, structures, and logic.
 
 
 <br>
 <br>
-<br>
-*(More projects coming soon!)*
+More projects coming soon!
 
 A few of my passions include Soccer, Video Games, and Reading. So expect a project related to any one of those coming next!
 
@@ -43,11 +49,11 @@ A few of my passions include Soccer, Video Games, and Reading. So expect a proje
 - Soccer injury analysis
 - Cosmere book series mind map
 
-## 💡 Purpose
+##  Purpose
 
-This portfolio is both a reflection of my learning journey and a demonstration of my ability to apply data analytics in various contexts. Whether it's optimizing a business process or uncovering insights from personal data, I enjoy turning numbers into narratives.
+This portfolio is both a reflection of my learning journey and a demonstration of my ability to apply data analytics in various contexts. Whether it's optimizing a business process or uncovering insights from personal data, I enjoy working with data, finding insights, and seeing what other realizations I can discover.
 
-Working with data is also fun for me, it is one of my personal hobbies. This will be a space where I can keep track of the things I have done!
+Working with data is fun for me, it is one of my personal hobbies. This will be a space where I can keep track of the things I have done!
 
 ---
 
